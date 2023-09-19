@@ -1,0 +1,49 @@
+#image {
+    text-align: center;
+   border-radius: 50%;
+}
+.meta-titre {
+    color: rgb(3, 3, 62)
+}
+.meta-titre {
+    text-align: center;
+}
+.cases {
+    
+}
+table {
+    border-style: inset;
+}
+#tableau {
+    margin-left: 535px;
+}
+.ul {
+    list-style-type: square;
+    background-color:rgba(43, 83, 143, 0.829);
+    border-radius: 50px;
+    text-align: center;
+}
+head {
+    background-image: -moz-radial-gradient;
+}
+#body {
+    background-color:rgba(159, 195, 248, 0.603);
+}
+hr {
+    font-size: larger;
+    background-color: rgba(43, 83, 143, 0.829);
+}
+.list {
+    color:
+}
+#Lien {
+    font: size large;
+}
+#bouton {
+    background-color:rgba(43, 83, 143, 0.829) ;
+    margin-left: 535px;
+}
+#Introtocv {
+    margin-left: 535px;
+
+}
